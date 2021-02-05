@@ -13,3 +13,5 @@ xhr.addEventListener('load', function() {
 xhr.open('GET', 'http://www.omdbapi.com/?t=Frozen');
 
 xhr.send();
+
+// some code 
